@@ -30,3 +30,5 @@ class BlockType:
 class SoundRes:
     JNTM = 'snd/jntm.WAV'
     NGM = 'snd/niganma.WAV'
+
+MAX_LEVEL = 99
